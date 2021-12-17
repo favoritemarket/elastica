@@ -1,0 +1,16 @@
+{
+    "name": "damien/elastica",
+    "type": "library",
+    "description": "clone of the project fos elastica compatible for symfony version 4.3.*",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://home.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damien Nomenjanahary",
+            "email": "dnomenjanahary@outlook.com",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ]
+}
